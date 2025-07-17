@@ -11,7 +11,8 @@ Durante o processo, sempre que surgia alguma dúvida, pausava o vídeo e pesquis
 - Implementação de **responsividade**, permitindo que o projeto se adapte corretamente a **diferentes tamanhos de tela** (celulares, tablets e desktops).
 - Ajustes e melhorias em detalhes visuais e funcionais do layout.
 
-  ## Telas: 
+  ## Telas:
+  <img width="2555" height="903" alt="Image" src="https://github.com/user-attachments/assets/f9f4cd49-0246-4937-a883-fe6ee8509d8c" />
 
 ---
 
