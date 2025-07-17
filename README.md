@@ -13,6 +13,7 @@ Durante o processo, sempre que surgia alguma dúvida, pausava o vídeo e pesquis
 - Alteração no **tamanho das fontes** da lista de artistas e álbuns para tornar o visual mais agradável e equilibrado.
 
   ## Vídeo
+  https://github.com/user-attachments/assets/fed15940-aaa6-4e12-88d7-e9b7c0e8ec3b
 
 ---
 
