@@ -6,8 +6,7 @@ Durante o processo, sempre que surgia alguma dúvida, pausava o vídeo e pesquis
 
 ## Melhorias:
 - Adição de **mais artistas e álbuns**, enriquecendo o conteúdo visual da página.
-- Inclusão de um novo botão **"Instalar"** no canto direito da tela.
-- Inclusão de um novo botão **"Entrar"** no canto direito da tela.
+- Inclusão de um novo botão **"Instalar"** e **Entrar** no canto direito da tela.
 - Implementação de **responsividade**, permitindo que o projeto se adapte corretamente a **diferentes tamanhos de tela** (celulares, tablets e desktops).
 - Adição de **favicon com o logo do Spotify**, aproximando o projeto da versão real da plataforma.
 - Alteração no **tamanho das fontes** da lista de artistas e álbuns para tornar o visual mais agradável e equilibrado.
