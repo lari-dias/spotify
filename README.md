@@ -12,8 +12,7 @@ Durante o processo, sempre que surgia alguma dúvida, pausava o vídeo e pesquis
 - Adição de **favicon com o logo do Spotify**, aproximando o projeto da versão real da plataforma.
 - Alteração no **tamanho das fontes** da lista de artistas e álbuns para tornar o visual mais agradável e equilibrado.
 
-  ## Telas:
-  <img width="2555" height="903" alt="Image" src="https://github.com/user-attachments/assets/f9f4cd49-0246-4937-a883-fe6ee8509d8c" />
+  ## Vídeo
 
 ---
 
