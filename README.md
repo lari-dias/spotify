@@ -16,4 +16,3 @@ Durante o processo, sempre que surgia alguma dúvida, pausava o vídeo e pesquis
 
 ---
 
-📌 Projeto com fins educativos e para desenvolvimento de habilidades em HTML, CSS e JavaScript.
